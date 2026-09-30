@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Clark
+# 👋 Hi, I'm Clxrk
 
 ### 💻 Full-Stack Web Developer | IT Student | Building Practical Systems
 
